@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: triforceNoNeedy
   m_EditorClassIdentifier: 
-  DisplayName: Triforce Needy
+  DisplayName: Triforce No Needy
   Description: For those playing TP or too lazy to take care of a needy.
   GeneratorSetting:
     TimeLimit: 5400
@@ -67,7 +67,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Grid Matching
+      - GridMatching
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -187,13 +187,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 'BlindMaze '
+      - BlindMaze
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 'identityParade '
+      - identityParade
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -229,7 +229,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 'SupermercadoSalvajeModule '
+      - SupermercadoSalvajeModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -247,7 +247,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 'PolyhedralMazeModule '
+      - PolyhedralMazeModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -265,7 +265,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 'alphabet '
+      - alphabet
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -301,7 +301,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - 'hunting '
+      - hunting
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 

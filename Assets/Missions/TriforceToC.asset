@@ -13,5 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Title: Triforce Mission
   Sections:
-  - Title: The ulimate challenge.
-    MissionIDs: []
+  - Title: The ultimate challenge.
+    MissionIDs:
+    - triforceNeedy
+    - triforceNoNeedy
