@@ -13,8 +13,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: TriBomb
   title: Triangular Bomb
-  description: Have you ever wondered what a traiangle bomb would look like? Well,
-    here you go! This bomb can support up to 75 modules.
+  description: 'Da da, da da-da-da-daaa
+
+
+    Have you ever wondered what a traiangle bomb would look like? Well, here you go!
+    This bomb can support up to 109 modules.
+
+
+    Features bomb cases of various sizes from a size of two rows (featuring 5 modules)
+    to ten rows (featuring 109 modules)
+
+
+    This also includes a special casing that features 103 modules, as well as a couple
+    of missions to complement the Centurion. More missions may be added in the future.
+
+
+    Thanks to ThatGuyCalledJules for creating this mod and the initial missions
+
+    Thanks to Trainzack for the scripts
+
+    Thanks to Sam for various help as well.'
   version: 1.0
   outputFolder: C:\Program Files (x86)\Steam\steamapps\common\Keep Talking and Nobody
     Explodes\mods

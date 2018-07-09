@@ -13,7 +13,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Title: Triforce Mission
   Sections:
-  - Title: The ultimate challenge.
+  - Title: The Perfect Challenge
     MissionIDs:
     - triforceNeedy
     - triforceNoNeedy
+  - Title: Courage, Wisdom, and Power
+    MissionIDs:
+    - Special
+    - FromThenToNow
