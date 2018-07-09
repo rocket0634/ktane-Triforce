@@ -581,6 +581,14 @@ Prefab:
       propertyPath: m_RootOrder
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 1764908088063590, guid: 76284632f115f7d4f965c506b784ac18, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1906745686594748, guid: 76284632f115f7d4f965c506b784ac18, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 76284632f115f7d4f965c506b784ac18, type: 2}
   m_IsPrefabParent: 0
@@ -794,10 +802,6 @@ Prefab:
       value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 1312559300703996, guid: ede8351704448a84c8004df4d96d3da7, type: 2}
-      propertyPath: m_Name
-      value: Triforce Casing (103 Modules)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1312559300703996, guid: ede8351704448a84c8004df4d96d3da7, type: 2}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
@@ -842,6 +846,10 @@ Prefab:
     - target: {fileID: 4632394766393578, guid: b08cf977094062747912c67a13526f94, type: 2}
       propertyPath: m_RootOrder
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973328215459598, guid: b08cf977094062747912c67a13526f94, type: 2}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1628466875747334, guid: b08cf977094062747912c67a13526f94, type: 2}
       propertyPath: m_IsActive
