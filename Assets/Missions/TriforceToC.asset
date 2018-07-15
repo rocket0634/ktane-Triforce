@@ -20,4 +20,5 @@ MonoBehaviour:
   - Title: Courage, Wisdom, and Power
     MissionIDs:
     - Special
+    - TPSpecial
     - FromThenToNow

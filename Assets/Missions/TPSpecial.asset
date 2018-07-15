@@ -9,10 +9,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
-  m_Name: Special
+  m_Name: TPSpecial
   m_EditorClassIdentifier: 
-  DisplayName: 100 years of war
-  Description: We've done it before, we can do it again!
+  DisplayName: 100 years of war [Compatibility Mode]
+  Description: 'We''ve done it before, we can do it again!
+
+    [If the normal mission works for you, don''t worry about this mission, but you
+    can still play it if you like]'
   GeneratorSetting:
     TimeLimit: 7200
     NumStrikes: 5
@@ -25,13 +28,25 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - buttonSequencesModule
+      - MazeScrambler
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - binaryTree
+      - mineseeker
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - timeKeeper
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - buttonSequencesModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -56,12 +71,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - lasers
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - guitarChords
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -235,12 +244,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Color Decoding
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - HexiEvilFMN
     - Count: 1
       AllowedSources: 2
@@ -284,12 +287,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - rubiksClock
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - LEGOModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -518,12 +515,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SymbolCycleModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - Painting
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 

@@ -581,10 +581,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 14
       objectReference: {fileID: 0}
-    - target: {fileID: 1764908088063590, guid: 76284632f115f7d4f965c506b784ac18, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1906745686594748, guid: 76284632f115f7d4f965c506b784ac18, type: 2}
       propertyPath: m_IsActive
       value: 0

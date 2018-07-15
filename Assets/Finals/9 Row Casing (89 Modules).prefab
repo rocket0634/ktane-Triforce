@@ -28430,7 +28430,7 @@ MonoBehaviour:
   - {fileID: 1253335553913366}
   - {fileID: 1057141115347516}
   visualTransform: {fileID: 4320939926019318}
-  Scale: 0.24444444
+  Scale: 0.2444444
   IsHoldable: 1
 --- !u!114 &114471157048711750
 MonoBehaviour:
