@@ -28,19 +28,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MazeScrambler
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - mineseeker
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - timeKeeper
+      - blackHoleModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -52,7 +46,19 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - BlackHoleModule
+      - lightspeed
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - timeKeeper
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - binaryTree
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -71,6 +77,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - lasers
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - guitarChords
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -137,12 +149,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SimonSingsModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - TheCruelCode
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -239,6 +245,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - sun
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Color Decoding
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 

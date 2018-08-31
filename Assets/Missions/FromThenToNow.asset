@@ -31,6 +31,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - MazeScrambler
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - stockMarket
     - Count: 1
       AllowedSources: 2
@@ -164,12 +170,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SimonSingsModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - TheCruelCode
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 

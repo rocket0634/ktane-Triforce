@@ -31,13 +31,19 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - binaryTree
+      - lightspeed
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - BlackHoleModule
+      - timeKeeper
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - binaryTree
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -128,12 +134,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - SimonSingsModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - TheCruelCode
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
