@@ -25,13 +25,49 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - buttonSequencesModule
+      - taxReturns
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - DrDoctorModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - cube
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
       - moon
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SuperlogicModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - cooking
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Tangrams
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Playfair
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -49,6 +85,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - GridMatching
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - HexiEvilFMN
     - Count: 1
       AllowedSources: 2
@@ -61,13 +103,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - wire
+      - londonUnderground
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - londonUnderground
+      - wire
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -80,12 +122,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - stopwatch
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - GridMatching
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -193,12 +229,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - maintenance
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - Backgrounds
     - Count: 1
       AllowedSources: 2
@@ -206,6 +236,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - BlindMaze
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - maintenance
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -235,7 +271,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - sonic
+      - buttonSequencesModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -247,7 +283,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - SupermercadoSalvajeModule
+      - sonic
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -278,18 +314,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - FlagsModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - alphabet
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - NumberPad
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -331,13 +355,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Painting
+      - Color Generator
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Color Generator
+      - Painting
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -350,6 +374,12 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - NonogramModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - GameOfLifeCruel
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -410,36 +440,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - XRayModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - YahtzeeModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - screw
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - iceCreamModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - PointOfOrderModule
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - booleanVennModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
