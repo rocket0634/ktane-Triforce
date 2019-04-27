@@ -428,4 +428,16 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - CruelPianoKeys
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - monsplodeCards
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - LEGOModule
   PacingEventsEnabled: 0

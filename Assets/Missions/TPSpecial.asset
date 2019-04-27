@@ -46,12 +46,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MorseWar
-    - Count: 1
-      AllowedSources: 2
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - simonsStar
     - Count: 1
       AllowedSources: 2
@@ -635,4 +629,16 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - CruelPianoKeys
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - LEGOModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - monsplodeCards
   PacingEventsEnabled: 0

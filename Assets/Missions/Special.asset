@@ -638,4 +638,16 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - XRayModule
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - CruelPianoKeys
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - monsplodeCards
   PacingEventsEnabled: 0

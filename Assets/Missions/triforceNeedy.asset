@@ -25,7 +25,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - taxReturns
+      - monsplodeCards
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
