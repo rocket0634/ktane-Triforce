@@ -343,6 +343,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - Painting
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - SetModule
     - Count: 1
       AllowedSources: 2
