@@ -2067,7 +2067,7 @@ GameObject:
   - component: {fileID: 114582337943038600}
   - component: {fileID: 114883827175723490}
   m_Layer: 0
-  m_Name: BackFace
+  m_Name: RearFace
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
