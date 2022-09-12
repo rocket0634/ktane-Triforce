@@ -445,19 +445,5 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - rapidButtons
       - NeedyBeer
-      - rng
-      - buttonMasherNeedy
-      - QRCode
-      - EternitySDec
-      - EdgeworkModule
-      - http
-      - spwizTetris
-      - NeedyKnobV2
-      - NeedyVentV2
-      - MotionSense
-      - Filibuster
-      - LightsOut
-      - Needy Math
   PacingEventsEnabled: 0
