@@ -1,0 +1,10 @@
+{
+    "name": "TriBomb-Editor",
+    "references": [
+        "TriBomb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

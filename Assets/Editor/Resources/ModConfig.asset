@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: TriBomb
   title: Triangular Bomb
+  author: 
   description: 'Da da, da da-da-da-daaa
 
 
