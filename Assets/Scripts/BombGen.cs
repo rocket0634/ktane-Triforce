@@ -36,7 +36,7 @@ public class BombGen : MonoBehaviour
         
         casing.Highlight.localScale = new Vector3(1, 1, 1);
         casing.Highlight.Rotate(90, 0, 0);
-        casing.Highlight.Translate(new Vector3(0, 0, -0.02f));
+        casing.Highlight.Translate(new Vector3(0, -.02f, 0f));
 
         float barrier_width = 0.025f;
         float widget_offset = 0.22f;
@@ -98,13 +98,13 @@ public class BombGen : MonoBehaviour
                 GameObject front_foams = Instantiate(Foams);
                 Transform f = front_foams.GetComponent<Transform>();
                 f.SetParent(casing.FoamFront);
-                f.Translate(new Vector3(offset * (x - half) - (offset * y * 0.5f), offset * (y - half), -0.01f));
+                f.Translate(new Vector3(offset * (x - half) - (offset * y * 0.5f), offset * (y - half), -0.005f));
                 f.Translate(new Vector3(-0.687f, 0.359f, 0.0f));
                 f.name = "Bomb_Foam_" + x + "_" + y + "_F";
                 Transform f_anchor = new GameObject().GetComponent<Transform>();
                 f_anchor.position = f.position;
                 f_anchor.parent = f;
-                f_anchor.Translate(0, 0.08f, 0);
+                f_anchor.Translate(0, 0.085f, 0);
                 f_anchor.Rotate(new Vector3(0, 0, 0));
                 f_anchor.name = "Anchor";
                 front_face.Anchors.Add(f_anchor);
@@ -112,14 +112,14 @@ public class BombGen : MonoBehaviour
                 GameObject back_foams = Instantiate(Foams);
                 Transform b = back_foams.GetComponent<Transform>();
                 b.SetParent(casing.FoamBack);
-                b.Translate(new Vector3(offset * (x - half) - (offset * y * 0.5f), offset * (y - half), 0.01f));
+                b.Translate(new Vector3(offset * (x - half) - (offset * y * 0.5f), offset * (y - half), 0.005f));
                 b.Translate(new Vector3(-0.687f, 0.359f, 0.0f));
                 b.Rotate(new Vector3(0, 180, 0));
                 b.name = "Bomb_Foam_" + x + "_" + y + "_B";
                 Transform b_anchor = new GameObject().GetComponent<Transform>();
                 b_anchor.position = b.position;
                 b_anchor.parent = b;
-                b_anchor.Translate(0, -0.08f, 0);
+                b_anchor.Translate(0, -0.085f, 0);
                 b_anchor.Rotate(new Vector3(0, 0, 180));
                 b_anchor.name = "Anchor";
                 back_face.Anchors.Add(b_anchor);
